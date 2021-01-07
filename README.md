@@ -16,6 +16,12 @@ Passionate for sharing knowledge after years of martial arts training / teaching
   <img src="https://img.shields.io/badge/Microsoft Store-download-blue"/>
 </a>
 
+## Coffee is the solution
+
+<a href="https://www.buymeacoffee.com/alinf" target="_blank">
+  <img src="https://img.shields.io/badge/Coffee-aquire-brown"/>
+</a>
+
 ---
 
 HC SVNT DRACONES

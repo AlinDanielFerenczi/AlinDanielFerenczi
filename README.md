@@ -8,7 +8,7 @@ Passionate for sharing knowledge after years of martial arts training / teaching
 
 ## SKILLS
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/alindanielferenczi/my-stack)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/alindanielferenczi/personal)
 
 ## PassView - Windows Credential Manager but better
 

@@ -9,7 +9,9 @@ Passionate about investing, tech & content creation.
 ## Projects that I've worked on
 
 <a href="https://freequantumcomputing.com">Free Quantum Computing Resources</a>
+
 <a href="https://venture-chain.com">Venture Chain</a>
+
 <a href="https://neojelly.com">NeoJelly</a>
 
 ## Coffee is the solution

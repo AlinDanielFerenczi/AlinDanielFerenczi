@@ -4,17 +4,13 @@
 
 Hard-working and ambitious individual eager to learn new technologies and master current skills.
  
-Passionate for sharing knowledge after years of martial arts training / teaching and mentoring of computer science students in the RPA domain.
+Passionate about investing, tech & content creation.
 
-## SKILLS
+## Projects that I've worked on
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/alindanielferenczi/personal)
-
-## PassView - Windows Credential Manager but better
-
-<a href="https://www.microsoft.com/store/productId/9N42685447QR" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft Store-download-blue"/>
-</a>
+<a href="https://freequantumcomputing.com">Free Quantum Computing Resources</a>
+<a href="https://venture-chain.com">Venture Chain</a>
+<a href="https://neojelly.com">NeoJelly</a>
 
 ## Coffee is the solution
 
